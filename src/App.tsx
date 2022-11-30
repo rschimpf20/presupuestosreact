@@ -17,8 +17,8 @@ function App() {
       
       <div className="card">
         <Title>{"Bienvenido Ronald"} </Title>        
-        <NuevoButton texto={"Nuevo Pago"}/>
-        <NuevoButton texto={"Ver mis pagos"}/>
+        <NuevoButton primary>Nuevo Pago</NuevoButton>
+        <NuevoButton>Ver mis pagos</NuevoButton>
         
       </div>
       
